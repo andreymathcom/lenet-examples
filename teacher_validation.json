@@ -1,0 +1,6 @@
+{
+  "test_samples": 10000,
+  "test_accuracy": 0.9737,
+  "cached_first_100_max_abs_delta": 5.340576171875e-05,
+  "runtime": "onnxruntime CPU"
+}
